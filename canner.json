@@ -1,0 +1,58 @@
+{
+    "layout": "./index.hbs",
+    "data": {
+        "title": "大眾傳播社",
+        "website": "http://www.canner.io",
+        "news": {
+            "title": "最新消息",
+            "posts": [
+                {
+                    "title": "7/25 - 7/31",
+                    "content": "暑假集訓，有豐富的活動、食物，等著大家參與唷！"
+                },
+                {
+                    "title": "6/30",
+                    "content": "晚上揪團吃飯"
+                }
+
+            ]
+        },
+        "about": {
+            "title": "關於我們",
+            "content": "本社團成立於2010年，固定社課時間為星期三...",
+            "photoLink": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Students_of_Kendo_Club_of_Da_Ji_Junior_High_School_2006-12-1.jpg"
+        },
+        "contact": {
+            "title": "Contact Us",
+            "email": "club@mail.com",
+            "facebook": "https://www.test.com"
+        },
+        "photos": {
+            "title": "活動照片",
+            "links": [
+                { 
+                "link": "https://upload.wikimedia.org/wikipedia/commons/1/1e/ChungChengUniversity_AdministrationBuilding.jpg"
+                },
+                {
+                "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/National_Chung_Cheng_University%2C_Gymnasium_%28Taiwan%29.jpg/360px-National_Chung_Cheng_University%2C_Gymnasium_%28Taiwan%29.jpg"
+                },
+                {
+                 "link": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Five_School_Boys_2006-12-1.jpg"
+                }
+            ]
+        },
+        "relatedLinks": {
+            "title": "相關連結",
+            "links": [
+                {
+                    "title": "Google",
+                    "url": "http://www.google.com"
+                },
+                 {
+                    "title": "Yahoo",
+                    "url": "http://tw.yahoo.com"
+                }
+            ]
+        }
+    }   
+}
